@@ -1,7 +1,7 @@
 # MPU6500_DMP_SPI
 Gyro-sensor(MPU6500)  use SPI and DMP on Pi2
 
-#License
+# DRIVERS Sensor Driver Layer License
 
     Copyright (C) 2011-2012 InvenSense Corporation, All Rights Reserved.
 
